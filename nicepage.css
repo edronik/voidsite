@@ -19,7 +19,6 @@ footer,header,section{
 }
 a{
     background-color:transparent;
-    -webkit-text-decoration-skip:objects
 }
 a:active,a:hover{
     outline-width:0
@@ -124,7 +123,6 @@ button{
     outline:0!important;
     background-color:transparent;
     margin:0;
-    -webkit-text-decoration-skip:objects
 }
 .u-image.u-logo{
     display:table;
@@ -530,7 +528,6 @@ p{
     outline:0!important;
     background-color:transparent;
     margin:0;
-    -webkit-text-decoration-skip:objects;
     margin-top:0!important;
     margin-bottom:0!important
 }
